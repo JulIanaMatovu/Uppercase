@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Uppercase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Uppercase_jar</output-path>
+    <root id="archive" name="Uppercase.jar">
+      <element id="module-output" name="Uppercase" />
+    </root>
+  </artifact>
+</component>
